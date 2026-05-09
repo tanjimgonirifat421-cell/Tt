@@ -1,0 +1,7 @@
+pyTelegramBotAPI
+pyotp
+requests
+gspread
+oauth2client
+flask
+
